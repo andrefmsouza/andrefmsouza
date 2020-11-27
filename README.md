@@ -9,3 +9,6 @@ Sou um FullStack Developer :computer:
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Typescript, VueJS & PHP
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, lol, futebol, filmes/series e nas horas vagas eu tento tirar um som na minha guitarra.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AndreFMSouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrefmsouza/)](https://www.linkedin.com/in/andrefmsouza/) 
+<br/>
+<br/>
+<a href="https://andrefmsouza.github.io/" target="blank">https://andrefmsouza.github.io/</a>
