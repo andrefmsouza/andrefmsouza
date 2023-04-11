@@ -4,10 +4,9 @@ Sou apaixonado por entender e solucionar problemas utilizando a programação e 
 
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Atualmente estou trabalhando em um projeto pessoal
- <br/> :purple_heart: &nbsp; Buscando criar novas formas de gamificação nas empresas e aplicando os meus conhecimentos de programção/design thinking em Marketing Digital
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Typescript, VueJS & PHP
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, lol, futebol, filmes/series e nas horas vagas eu tento tirar um som na minha guitarra.
+ :rocket:  &nbsp; Atualmente estou trabalhando na empresa iScholar como programador Fullstack
+ <br/> :computer: &nbsp; Minha stack: PHP, AngularJS, ReactJS, Node.js, React Native, Typescript & VueJS
+ <br/> 💬  &nbsp; Sobre mim: Gosto de tecnologias, games, futebol, filmes/series e nas horas vagas eu pratico a minha arte 	:art:, :art:, :art:, :artist_palette:.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AndreFMSouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrefmsouza/)](https://www.linkedin.com/in/andrefmsouza/) 
 <br/>
 <br/>
