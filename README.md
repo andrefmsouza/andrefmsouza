@@ -5,7 +5,7 @@ Sou apaixonado por entender e solucionar problemas utilizando a programação e 
 Sou um FullStack Developer :computer:
 
  :rocket:  &nbsp; Atualmente estou trabalhando na empresa iScholar como programador Fullstack
- <br/> :computer: &nbsp; Minha stack: PHP, AngularJS, ReactJS, Node.js, React Native, Typescript & VueJS
+ <br/> :computer: &nbsp; Minha stack: PHP, AngularJS, ReactJS, Node.js, React Native, Typescript & Docker
  <br/> 💬  &nbsp; Sobre mim: Gosto de tecnologias, games, futebol, filmes/series e nas horas vagas eu pratico a minha arte :art:.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AndreFMSouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrefmsouza/)](https://www.linkedin.com/in/andrefmsouza/) 
 <br/>
