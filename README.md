@@ -11,9 +11,7 @@ Before that, I spent seven years at Rivelli as one of two developers behind 40+ 
 **Main stack:** Node.js · TypeScript · PostgreSQL · Docker · MCP · LLMs<br>
 **At iScholar:** PHP · TypeScript · React · React Native · AWS · REST APIs
 
-## Projects I can share
-
-Most of what I build is private. These are open source:
+## Projects
 
 - **[Pão Nosso](https://github.com/andrefmsouza/pao-nosso-backend)**: B2B API for companies to order breakfast from local bakeries. AI agents order through its MCP server, and bakeries receive each order as a signed webhook. Node.js, TypeScript, PostgreSQL.
 - **[Telegram Chat Summarizer](https://github.com/andrefmsouza/telegram-chat-summarizer)**: CLI that summarizes a busy Telegram group with a local model, any OpenAI-compatible API or Claude Code. Names are anonymized before anything reaches the AI.
