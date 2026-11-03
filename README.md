@@ -2,14 +2,12 @@
 
 **Lead Software Engineer** · Belo Horizonte, Brazil · [andresouza.dev.br](https://andresouza.dev.br/en)
 
-Since 2013 I've combined engineering with business sense to lead teams, simplify complex operations and apply AI where it delivers measurable returns.
+I've been building software since 2013, from APIs and integrations to products used by more than 100,000 people a day. Today I lead an engineering team and spend most of my time improving processes and tools and building new products.
 
-Today I lead the sustaining engineering team at iScholar, an EdTech platform with 100,000+ daily active users. With the team, I handle integrations, bug fixes and platform improvements, and we built AI automations and MCP integrations that more than tripled our output with the same effort.
+I use AI every day: to automate team workflows, to build tools on top of language models, to run models locally when data has to stay private, and to connect agents to existing systems.
 
-Before that, I spent seven years at Rivelli as one of two developers behind 40+ internal applications for finance, logistics, sales and HR, and worked on the company's migration to SAP S/4HANA.
-
-**Main stack:** Node.js · TypeScript · PostgreSQL · Docker · MCP · LLMs<br>
-**At iScholar:** PHP · TypeScript · React · React Native · AWS · REST APIs
+**Stack:** Node.js · TypeScript · React · React Native · PHP · PostgreSQL · REST APIs · AWS · Docker<br>
+**AI:** LLM integrations · AI agents · Local models · Workflow automation · MCP
 
 ## Projects
 
