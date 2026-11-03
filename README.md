@@ -8,8 +8,8 @@ Today I lead the sustaining engineering team at iScholar, an EdTech platform wit
 
 Before that, I spent seven years at Rivelli as one of two developers behind 40+ internal applications for finance, logistics, sales and HR, and worked on the company's migration to SAP S/4HANA.
 
-**At work:** PHP · TypeScript · React · React Native · AWS · REST APIs<br>
-**Side projects:** Node.js · PostgreSQL · Docker · MCP · LLMs
+**Main stack:** Node.js · TypeScript · PostgreSQL · Docker · MCP · LLMs<br>
+**At iScholar:** PHP · TypeScript · React · React Native · AWS · REST APIs
 
 ## Projects I can share
 
